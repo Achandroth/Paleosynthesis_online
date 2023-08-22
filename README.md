@@ -5,3 +5,4 @@ Example git repo
 
 This repository contains the activities (files) created as part of the Analytical Paleobiology Summer School 2023.
 
+Always remember to stage then commit and then push
